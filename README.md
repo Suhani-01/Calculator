@@ -1,6 +1,6 @@
 # 🧮 Calculator
 
-A simple, clean, and responsive calculator built using HTML, CSS, and JavaScript. Perform basic arithmetic operations with a user-friendly interface.
+A simple, clean calculator built using HTML, CSS, and JavaScript. Perform basic arithmetic operations with a user-friendly interface.
 
 🌐 **Live Demo**: [Click Here](https://suhani-01.github.io/Calculator/)
 
